@@ -11,3 +11,5 @@ t.*
 temp.*
 test.*
 *.a
+
+VisualStudioNET/\.vs/plc-utils-2015/v15/
